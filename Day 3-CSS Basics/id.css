@@ -1,0 +1,31 @@
+.container {
+    font-size: 32px;
+    color: #333;
+    text-align: center;
+    background-color: rgb(225, 232, 229);
+    padding: 20px;
+    margin-top: 4px;
+}
+.center-img {
+  display: block;
+  margin: 0 auto;
+}
+.profile-img-container{
+  width: 100%;
+}
+.center-img{
+  width: 100%;
+}
+.p{
+  margin: 5px 0;
+  font-size: 14px;
+}
+.box {
+  width: 500px;
+  height: 800px;
+  background-color: whitesmoke;
+  padding: 20px;
+  margin: 20px;
+  font-size: 18px;
+  text-align: center;
+}
